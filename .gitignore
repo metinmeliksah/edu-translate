@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options
+*.VC.db
+*.VC.VC.opendb
+
+# Rider
+.idea/
+*.sublime-workspace
+
+# NuGet
+/packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# DotCover
+*.dotCover
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Publish outputs
+Publish/
+
+# Log files
+*.log
+
+# User secrets / local settings - do not commit real API keys
+Translate/App.config
+Translate/bin/
+Translate/obj/
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Others
+*.class
+*.psd
+
+# Git attributes
+.gitattributes
