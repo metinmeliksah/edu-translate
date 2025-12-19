@@ -37,7 +37,6 @@ Publish/
 *.log
 
 # User secrets / local settings - do not commit real API keys
-Translate/App.config
 Translate/bin/
 Translate/obj/
 
